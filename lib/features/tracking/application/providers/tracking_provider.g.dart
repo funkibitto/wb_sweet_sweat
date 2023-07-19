@@ -1,0 +1,25 @@
+// GENERATED CODE - DO NOT MODIFY BY HAND
+
+part of 'tracking_provider.dart';
+
+// **************************************************************************
+// RiverpodGenerator
+// **************************************************************************
+
+String _$trackingControllerHash() =>
+    r'786dbed5b5ae164432533cda095fdc4008fa73ad';
+
+/// See also [trackingController].
+@ProviderFor(trackingController)
+final trackingControllerProvider = AutoDisposeFutureProvider<void>.internal(
+  trackingController,
+  name: r'trackingControllerProvider',
+  debugGetCreateSourceHash: const bool.fromEnvironment('dart.vm.product')
+      ? null
+      : _$trackingControllerHash,
+  dependencies: null,
+  allTransitiveDependencies: null,
+);
+
+typedef TrackingControllerRef = AutoDisposeFutureProviderRef<void>;
+// ignore_for_file: unnecessary_raw_strings, subtype_of_sealed_class, invalid_use_of_internal_member, do_not_use_environment, prefer_const_constructors, public_member_api_docs, avoid_private_typedef_functions

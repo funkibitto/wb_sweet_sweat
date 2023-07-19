@@ -1,0 +1,10 @@
+flutter_native_splash:
+  color: "#FAFAFA"
+  color_dark: "#303030"
+  android_gravity: fill
+  # ios_content_mode: scaleAspectFill
+  image: "assets/images/splash.png"
+  image_dark: "assets/images/splash.png"
+  android_12:
+    image: "assets/images/splash.png"
+    image_dark: "assets/images/splash.png"
